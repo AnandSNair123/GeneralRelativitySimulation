@@ -1,0 +1,37 @@
+>> BEGIN INTERCEPT_STREAM_77A
+>> PACKET LOSS DETECTED... RECONSTRUCTING FRAGMENTS.
+>> SOURCE: INTERNAL_COMMS_VLAN_4
+>> TIMESTAMP_SYNC: 2026-10-11T08:14:00Z
+
+[08:14:22] E.ROSS: Orwen, terminal 4 is throwing a persistent auth fault. The reader is just flashing solid red. 
+
+[08:16:05] O.PIERCE: Did you badge in properly? The proximity scanner was kicking back ghost errors yesterday during the server migration. Try wiping the chip on your sleeve.
+
+[08:17:10] E.ROSS: It's not the scanner. I don't have the badge.
+
+[08:18:00] O.PIERCE: Evelyn.
+
+[08:18:45] E.ROSS: Look, it snapped off my lanyard somewhere near the Bell Tower scaffolding. I was carrying the sensor rigs and didn't notice until I got to the airlock.
+
+[08:19:12] O.PIERCE: You dropped a Level 4 physical token in an unmonitored zone? I am legally required to log that with Site Security right now. They will lock the entire grid.
+
+[08:20:05] E.ROSS: Don't. Please. If they flag my clearance again this quarter, they'll pull me off the deployment team completely. Just override the localized reader. Nobody checks the secondary logs.
+
+[08:24:30] O.PIERCE: I am not overriding a physical hardware interlock. That trips a silent alarm across the whole subnet. I'd be fired before lunch.
+
+[08:25:11] E.ROSS: Then what do I do? The baseline audit starts at 14:00. I have to pull the data_transmission files from the node before the automated sweep locks the directory.
+
+[08:31:04] O.PIERCE: Fine. Stand by. 
+
+[08:32:15] O.PIERCE: Okay, I just nuked your localized profile from the domain controller. The RFID reader is completely blind to you now. But the manual terminal interface will accept a fresh handshake. I reverted your Work ID and passphrase to the factory default state.
+
+[08:33:02] E.ROSS: So it's just my first initial and last name for the ID? Like they set it up during onboarding?
+
+[08:34:10] O.PIERCE: Yes. EROSS. The password is the standard system rollout: changeme_0000. 
+
+[08:34:45] O.PIERCE: Log in. Download the security documents immediately. And for the love of god, change the password the second your session establishes. If an auditor sees default credentials active on the network, we are both dead.
+
+[08:36:20] E.ROSS: Got it. I owe you.
+
+>> END_STREAM
+>> CONNECTION TERMINATED

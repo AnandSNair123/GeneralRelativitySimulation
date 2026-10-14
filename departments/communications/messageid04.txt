@@ -1,0 +1,5 @@
+FROM: Arthur Pendelton
+TO: Orwen Pierce
+SUBJECT: ENCRYPTION REQUIRED - Engineering Logs
+
+Orwen, discreetly invalidate the session logs of the engineering department for the past 72 hours. Scrub the backups. They might have uncovered something the higher-ups don't want out yet regarding the node contact clearance. Do not ask questions. Just execute the wipe.

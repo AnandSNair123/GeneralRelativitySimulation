@@ -1,0 +1,9 @@
+FROM: Orwen Pierce
+TO: Evelyn Ross
+SUBJECT: RE: Terminal Lockout - Urgent
+
+Unbelievable. If Site Security finds a Level 4 physical token in an unmonitored zone, they will lock the entire grid. I just wiped your localized profile from the domain controller. The RFID reader is blind to you, but the manual terminal interface will accept a fresh handshake.
+
+I reverted your Work ID and passphrase to the factory default state. Check the standard protocol in the security documents if you forgot the formatting. 
+
+Log in and download your files immediately.

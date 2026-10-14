@@ -1,0 +1,10 @@
+TERMINAL ACTIVITY & RELAY CONNECTION LOGS
+
+13:42 - AUTH FAILURE - Unknown Token (Terminal 4)
+13:45 - AUTH FAILURE - Unknown Token (Terminal 4)
+13:47 - ADMIN OVERRIDE - Executed by: OPierce
+13:48 - LOGIN SUCCESS - User: BHQ-EvelynRoss
+13:50 - DATA DOWNLOAD - 3 Files Retrieved
+14:01 - CONNECTION SEVERED - Host Unreachable
+
+How did she log in? The terminal doesn't even exist on the physical grid anymore.

@@ -1,0 +1,6 @@
+REGISTRY: CONTRACTOR PERSONNEL
+NAME: Pierce, Orwen
+DIVISION: Engineering
+ROLE: Firmware Deployment & Node Maintenance
+
+NOTES: Transferred from standard IT following the Sector 4 incident. Handles hardware replacement for the Bell Tower scaffolding. Reliable. Doesn't ask questions when the network logs don't match reality.

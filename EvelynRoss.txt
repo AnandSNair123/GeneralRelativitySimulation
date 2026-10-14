@@ -1,0 +1,8 @@
+DIVISION ROSTER: COMMUNICATIONS
+NAME: Ross, Evelyn
+ROLE: Relay Network & Satellite Frequency Monitor
+
+STATUS: ERROR - RECORD CONFLICT
+CLEARANCE: REVOKED
+
+SYSTEM NOTE: Payroll indicates this employee was terminated 7 years ago. Active terminal pings detected today. Discrepancy logged.

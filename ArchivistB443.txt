@@ -1,0 +1,13 @@
+ARCHIVE LEDGER: ENTRY 443
+AUTHOR: Archivist B443
+CLEARANCE: RESEARCH ONLY
+
+I managed to scrape the residual transmission data right out of the Node 9 temporal anomaly. It's an absolute mess. 
+
+Don't even bother trying to listen to the raw file. It'll just blow your speakers out. The distortion bleeding through isn't acoustic at all. It's entirely physical. 
+
+Arthur Pendelton's cleanup crew tried to scrub the engineering logs. They wanted to bury the network bleed. They missed this. The raw data payload is still trapped dead-center inside the frequency band. 
+
+Stop relying on your ears. 
+
+Dump the attached audio memo straight into a spectral analyzer. You have to actually look at the physical shape of the noise to see what they hid. The anomalies are meant to be seen.

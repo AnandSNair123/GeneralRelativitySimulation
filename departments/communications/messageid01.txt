@@ -1,0 +1,4 @@
+TO: Orwen Pierce
+SUBJECT: Terminal Lockout - Urgent
+
+Orwen, terminal 4 is throwing a persistent auth fault. The reader is just flashing solid red. I lost my physical badge somewhere near the Bell Tower scaffolding. The baseline audit starts at 14:00 and I have to pull the data_transmission files before the automated sweep. Help me out.
